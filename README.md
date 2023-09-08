@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="programing-gif" width="400">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="programing-gif" width="200" height="200">
   <h1>Hi there 👋, I'm <b>yadindev</b> </h1>
   <h3>Welcome to my GitHub repository. Here you will find a collection of my projects and contributions to programming
     world.</h3>
