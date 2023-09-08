@@ -4,7 +4,7 @@
   <h3>Welcome to my GitHub repository. Here you will find a collection of my projects and contributions to programming
     world.</h3>
 </div>
-- - -
+
 <!-- ### Hi there 👋 -->
 
 
