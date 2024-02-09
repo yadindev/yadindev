@@ -29,7 +29,7 @@
       height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony"
       alt="Symfony" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel"
       alt="Laravel" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" title="SVN"
       alt="SVN" width="40" height="40">&nbsp;
