@@ -39,4 +39,7 @@
       width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-plain-wordmark.svg" title="VUEjs" alt="VUEjs"
       width="40" height="40">&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original-wordmark.svg" title="Livewire" alt="Livewire"
+      width="40" height="40">&nbsp;
+    
   </div>
